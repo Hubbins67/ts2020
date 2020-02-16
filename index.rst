@@ -16,76 +16,7 @@
    :name: _privatecloud
    :hidden:
 
-   pc/dayinlife/dayinlife
-   prismops/prismops_capacity_lab/prismops_capacity_lab
-   prismops/prismops_rightsize_lab/prismops_rightsize_lab
    pc/files/files
-   pc/flow/flow_isolate_environments/flow_isolate_environments
-   pc/flow/flow_quarantine_vm/flow_quarantine_vm
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Databases
-   :name: _dbs
-   :hidden:
-
-   db/gettingstarted
-   db/mssqldeploy/mssqldeploy
-   db/cloning/cloning
-   db/aag/aag
-   db/oraclepatch/oraclepatch
-   db/flow_secure_fiesta/flow_secure_fiesta
-   prismops/prismops_capacity_lab/prismops_capacity_lab
-   prismops/prismops_blue_medora_lab/prismops_blue_medora_lab
-
-.. toctree::
-   :maxdepth: 2
-   :caption: End User Computing - Xi Frame
-   :name: _eucframe
-   :hidden:
-
-   move/move
-   eucframe/goldimage/goldimage
-   eucframe/deploycca/deploycca
-   eucframe/manage/manage
-   eucframe/framefiles/framefiles
-
-.. toctree::
-   :maxdepth: 2
-   :caption: End User Computing - Citrix
-   :name: _euccitrix
-   :hidden:
-
-   move/move
-   euccitrix/goldimage/goldimage
-   euccitrix/pdesktops/pdesktops
-   euccitrix/pdesktops/npdesktops
-   euccitrix/updatecatalog/updatecatalog
-   euccitrix/files/files
-   prismops/prismops_capacity_lab/prismops_capacity_lab
-   prismops/prismops_rightsize_euc_lab/prismops_rightsize_euc_lab
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Standalone Labs
-   :name: _standalone
-   :hidden:
-
-   beam_cost_governance/beam_cost_governance
-   calm_karbon_cicd/calm_karbon_cicd
-   mine/hycu/hycu/hycu
-   mine/hycu/protecting-applications/protectingapps
-   peer/peer
-..   /mine/hycu/protecting-physical/protectingphysical
-..   /mine/hycu/reporting/reporting
-..   /mine/hycu/self-service/selfservice
-..   db/lab1/rstfile
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Appendix
-   :name: _appendix
-   :hidden:
 
 .. _welcome:
 
