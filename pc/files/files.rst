@@ -1,9 +1,9 @@
-.. title:: Files
+.. title:: Nutanix Certified Services- Files Consultant
 
 
------
-Files
------
+-------------------------------------------------------
+Nutanix Certified Services- Files Consultant (NCS C-FI)
+-------------------------------------------------------
 
 *The estimated time to complete this lab is 75 minutes.*
 
